@@ -1,0 +1,4 @@
+name: AntiTnT
+main: me.chaseoes.antitnt.AntiTnT
+version: 1.0
+description: Blocks TnT on your server!
